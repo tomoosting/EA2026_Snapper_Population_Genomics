@@ -1,2 +1,2 @@
-# EA2025_Snapper_population_genomics
-Code associated with Oosting et al., 2025 - Ecolutionary Applications
+# EA2026_Snapper_population_genomics
+Code associated with Oosting et al., 2026 - Evolutionary Applications
